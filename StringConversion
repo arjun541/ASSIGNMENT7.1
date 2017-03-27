@@ -1,0 +1,12 @@
+public class StringConversion{
+
+		public static void main(String args[])
+		{
+			int n=100;
+			String s=new Integer(n).toString();//Converted to String
+			System.out.println(s);
+			
+		}
+			
+
+		}
